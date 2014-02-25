@@ -1,5 +1,6 @@
 __author__ = 'souriyakhaosanga'
 
+#Time efficiency is big O(mn)
 #Method is used to find mutual friends
 def brute_force(array1, array2):
     mutual = []
@@ -9,6 +10,18 @@ def brute_force(array1, array2):
                 mutual.append(i)
     print mutual
 
+#
+#Friends in common log n
+def faster(array1, array2):
+    c = []
+    d = []
+    c += array1
+    c += array2
+    c.sort()
+    for i in range(0, c.__len__() - 1, 1):
+        if c[i] == c[i + 1]:
+            d.append(c[i])
+    print d
 
 
 def main():
@@ -19,7 +32,7 @@ def main():
 
     brute_force(person1, person2)
 
-
+    faster(person1, person2)
 
 
 if __name__ == "__main__":
