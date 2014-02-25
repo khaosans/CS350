@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfbefcb3-e946-49be-b36e-c6848b310cbb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gimmestuff.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parseit.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/HW3_cs350.iml" afterPath="$PROJECT_DIR$/.idea/HW3_cs350.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dutch.py" afterPath="$PROJECT_DIR$/dutch.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fic.py" afterPath="$PROJECT_DIR$/fic.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HW3_cs350.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,7 +56,7 @@
       <file leaf-file-name="fic.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="16" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+            <state line="31" column="10" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="945">
               <folding />
             </state>
           </provider>
@@ -68,7 +65,7 @@
       <file leaf-file-name="dutch.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dutch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="653" selection-end="653" vertical-scroll-proportion="0.71955717" vertical-offset="45" max-vertical-offset="615">
+            <state line="42" column="0" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.6642066" vertical-offset="270" max-vertical-offset="960">
               <folding />
             </state>
           </provider>
@@ -97,10 +94,10 @@
         <option value="$PROJECT_DIR$/v3.py" />
         <option value="$PROJECT_DIR$/v2.py" />
         <option value="$PROJECT_DIR$/cs350.py" />
-        <option value="$PROJECT_DIR$/fic.py" />
         <option value="$PROJECT_DIR$/ArgParse.py" />
         <option value="$PROJECT_DIR$/parseit.py" />
         <option value="$PROJECT_DIR$/gimmestuff.py" />
+        <option value="$PROJECT_DIR$/fic.py" />
         <option value="$PROJECT_DIR$/dutch.py" />
       </list>
     </option>
@@ -400,9 +397,9 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.dutch" />
-        <item index="1" class="java.lang.String" itemvalue="Python.gimmestuff" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ArgParse" />
-        <item index="3" class="java.lang.String" itemvalue="Python.fic" />
+        <item index="1" class="java.lang.String" itemvalue="Python.fic" />
+        <item index="2" class="java.lang.String" itemvalue="Python.gimmestuff" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ArgParse" />
         <item index="4" class="java.lang.String" itemvalue="Python.cs350" />
       </list>
     </recent_temporary>
@@ -465,7 +462,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39831698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2027972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2027972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -596,14 +593,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+        <state line="31" column="10" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="945">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dutch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="653" selection-end="653" vertical-scroll-proportion="0.71955717" vertical-offset="45" max-vertical-offset="615">
+        <state line="42" column="0" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.6642066" vertical-offset="270" max-vertical-offset="960">
           <folding />
         </state>
       </provider>
