@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfbefcb3-e946-49be-b36e-c6848b310cbb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lambda" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HW3_cs350.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +37,7 @@
       <file leaf-file-name="test.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="10" selection-start="371" selection-end="371" vertical-scroll-proportion="0.37887487" vertical-offset="0" max-vertical-offset="871">
+            <state line="2" column="0" selection-start="15" selection-end="15" vertical-scroll-proportion="0.03444317" vertical-offset="0" max-vertical-offset="871">
               <folding />
             </state>
           </provider>
@@ -507,10 +505,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1618" y="-231" width="1968" height="1195" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46139535" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46053854" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24990146" sideWeight="0.7904468" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.114652954" sideWeight="0.8347261" order="0" side_tool="false" content_ui="combo" />
@@ -675,7 +673,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="371" selection-end="371" vertical-scroll-proportion="0.37887487" vertical-offset="0" max-vertical-offset="871">
+        <state line="2" column="0" selection-start="15" selection-end="15" vertical-scroll-proportion="0.03444317" vertical-offset="0" max-vertical-offset="871">
           <folding />
         </state>
       </provider>

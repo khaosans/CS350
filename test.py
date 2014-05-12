@@ -1,23 +1,24 @@
+class Person:
+
+    def __description(self):
+        return "Person function"
+
+    def printInfo(self):
+        print self.__description()
 
 
+class Parent(Person):
+    def __description(self):
+        return "Parent function"
+    def printInfo(self):
+        print self.__description()
 
-
-class Parent(object):
-    def __init__(self):
-        pass
-    def Create(self):
-        return 'someshit here'
-
-class Child(Parent):
-    def __init__(self):
-        super(Child, self).__init__()
-        self.Create()
-    def Create(self):
-        return 'the'+super(Child,self).Create()
 
 def main():
-
-    print Child().Create()
+    a = Person()
+    b = Parent()
+    a.printInfo()
+    b.printInfo()
 
 if __name__ == "__main__":
     main()
