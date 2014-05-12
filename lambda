@@ -1,0 +1,12 @@
+def f(x):
+    return x * 2;
+
+
+def main():
+    foo = [2, 18, 9, 22, 17, 24, 8, 12, 27]
+
+    print(map(lambda k: k * 2, foo))
+
+
+if __name__ == "__main__":
+    main()
